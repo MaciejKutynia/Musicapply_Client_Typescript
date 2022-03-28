@@ -1,0 +1,9 @@
+export const GET_TRACKS = "GET_TRACKS";
+export const GET_SRC = "GET_SRC";
+export const ERROR = "ERROR";
+export const SEARCHED_TRACKS = "SEARCHED_TRACKS";
+export const IS_LOADING = "IS_LOADING";
+export const IS_PLAYING = "IS_PLAYING";
+export const GET_FAV = "GET_FAV";
+export const TOGGLE_LIBRARY = "TOGGLE_LIBRARY";
+export const GET_EDITED_TRACK = "GET_EDITED_TRACK";
